@@ -1,6 +1,6 @@
 # machine-learning
 
-List of implemented Machine Learning Algorithms.
+# List of implemented Machine Learning Algorithms.
 
 
 Build Density-based spatial clustering of applications with noise  Algorithm using glass.csv data.
